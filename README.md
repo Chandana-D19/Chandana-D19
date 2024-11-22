@@ -6,7 +6,7 @@ A passionate Full Stack Developer
 - 🌱 Currently learning advanced React.js and Node.js  
 - 💻 Working on Full Stack Development Projects  
 - ⚡ I love badminton and watching cricket!
-- 
+  
 ### GitHub Stats  
 ![Chandana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandana&show_icons=true&theme=radical)  
 
