@@ -12,13 +12,13 @@ I'm a passionate developer with expertise in **HTML, CSS, Python, JavaScript, SQ
 
 ### Projects
 Here are some of my projects:
-1. **[E-Commerce Website](https://github.com/username/ecommerce-website)** - A full-stack e-commerce platform built with MERN Stack.
-2. **[Portfolio Website](https://github.com/username/portfolio)** - A responsive portfolio website using HTML, CSS, and JavaScript.
-3. **[Data Analysis with Python](https://github.com/python-data-analysis)** - A Python project for analyzing and visualizing data.
+1. **[Marvel Website](watchloki.ccbp.tech)** - A Disney Website using HTML, CSS.
+2. **[Todo_Application](preparewellapp.ccbp.tech)** - A Todo Application using HTML, CSS, and JavaScript.
+3. **[Library Management System](0834hu45g6hj.ccbp.tech)** - Library Management System using HTML, CSS, and JavaScript.
 
 ### Connect with Me
 - **LinkedIn**: [linkedin.com/in/chandana-dumpala](https://www.linkedin.com/in/chandana-dumpala)
-- **Email**: your.email@example.com
+- **Email**: chandanadumpala19@gmail.com
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
