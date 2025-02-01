@@ -6,7 +6,7 @@ I'm a passionate developer with expertise in **HTML, CSS, Python, JavaScript, SQ
 ### Skills
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Python, Node.js
-- **Database**: SQL (MySQL, PostgreSQL)
+- **Database**: SQL (MySQL, SQLite)
 - **Full Stack**: MERN Stack (MongoDB, Express.js, React.js, Node.js)
 - **Tools**: Git, GitHub, VS Code
 
@@ -21,7 +21,7 @@ Here are some of my projects:
 - **Email**: chandanadumpala19@gmail.com
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?Chandana-D19=Chandana-D19&show_icons=true&theme=radical)
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Chandana-D19=Chandana-D19&layout=compact&theme=radical)
