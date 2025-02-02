@@ -14,10 +14,7 @@
 - **Tools**: Git, GitHub, VS Code, Spyder
 
 ### Projects
-Here are some of my projects:
-1. **[Marvel Website](watchloki.ccbp.tech)** - A Disney Website using HTML, CSS.
-2. **[Todo_Application](preparewellapp.ccbp.tech)** - A Todo Application using HTML, CSS, and JavaScript.
-3. **[Library Management System](0834hu45g6hj.ccbp.tech)** - Library Management System using HTML, CSS, and JavaScript.
+- Checkout my project repo's! here.
 
 ### Connect with Me
 - **LinkedIn**: [linkedin.com/in/chandana-dumpala](https://www.linkedin.com/in/chandana-dumpala)
