@@ -6,9 +6,9 @@ I'm a passionate developer with expertise in **HTML, CSS, Python, JavaScript, SQ
 ### Skills
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Python, Node.js
-- **Database**: SQL (MySQL, SQLite)
+- **Database**: SQL (MySQL, SQLite), NoSQL (Mongo)
 - **Full Stack**: MERN Stack (MongoDB, Express.js, React.js, Node.js)
-- **Tools**: Git, GitHub, VS Code
+- **Tools**: Git, GitHub, VS Code, Spyder
 
 ### Projects
 Here are some of my projects:
