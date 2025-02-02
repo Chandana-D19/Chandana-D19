@@ -1,4 +1,4 @@
-# Hi, I'm Chandana Dumpala 👋 Fellow at Nxtwave's CCBP 4.0
+# Hi, I'm Chandana Dumpala 👋
 
 ## 👋 About Me:
 - 🌐 I'm a passionate developer with expertise in **HTML, CSS, Python, JavaScript, SQL, and MERN Stack**.
