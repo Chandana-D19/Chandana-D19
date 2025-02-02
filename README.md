@@ -20,8 +20,3 @@ Here are some of my projects:
 - **LinkedIn**: [linkedin.com/in/chandana-dumpala](https://www.linkedin.com/in/chandana-dumpala)
 - **Email**: chandanadumpala19@gmail.com
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Chandana-D19=Chandana-D19&show_icons=true&theme=radical)
-
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Chandana-D19=Chandana-D19&layout=compact&theme=radical)
