@@ -28,3 +28,12 @@
 - **LinkedIn**: [linkedin.com/in/chandana-dumpala](https://www.linkedin.com/in/chandana-dumpala)
 - **Email**: chandanadumpala19@gmail.com
 
+## 📊 GitHub Profile Summary Card
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chandana-D19&theme=vue)
+
+## 📈 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Chandana-D19&show_icons=true&theme=vue)
+
+## 🔥 GitHub Contribution Graph
+![](https://github-readme-activity-graph.cyclic.app/graph?username=Chandana-D19&theme=github)
+
