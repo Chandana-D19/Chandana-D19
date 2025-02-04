@@ -21,9 +21,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Projects
-- Checkout my project repo's! here.
-
 ### Connect with Me
 - **LinkedIn**: [linkedin.com/in/chandana-dumpala](https://www.linkedin.com/in/chandana-dumpala)
 - **Email**: chandanadumpala19@gmail.com
