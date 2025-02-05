@@ -1,7 +1,7 @@
 # Hi, I'm Chandana Dumpala 👋
 
 ## 👋 About Me:
-- 🌐 I'm a passionate developer with expertise in **HTML, CSS, Python, JavaScript, SQL, and MERN Stack**.
+- 🌐 I'm a fresher and a passionate developer with expertise in **HTML, CSS, Python, JavaScript, SQL, and MERN Stack**.
 - 🧑‍💻 I love building web applications, solving problems, and learning new technologies. 
 - ✨ I Enjoy Cricket, and a badminton player.  
 - 🌍 I have a fantasy of roaming in the world of Disney and Marvel, indulging in their characters within my tiny world.
