@@ -1,7 +1,7 @@
 # Hi, I'm Chandana Dumpala 👋
 
 ## 👋 About Me:
-- 🧑‍💻 Assosiate Software Engineer @Exceloid Soft Systems
+- 🧑‍💻 Assosiate Software Engineer @Exceloid
 - 🎓 EE grad'24 from RGUKT Basar
 - ✨ I Enjoy Cricket, and a badminton player.  
 - 🌍 I have a fantasy of roaming in the world of Disney and Marvel, indulging in their characters within my tiny world.
