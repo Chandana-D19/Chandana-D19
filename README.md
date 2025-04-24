@@ -1,10 +1,8 @@
 # Hi, I'm Chandana Dumpala 👋
 
 ## 👋 About Me:
-- 🎓 EE grad'24 from RGUKT Basar and fellow at Nxtwave CCBP 4.0
-- 🌐 I'm a fresher and a passionate developer.
-- 🧑‍💻 Currently learning and working on MERN Stack development
-- 🧑‍💻 I love building web applications, solving problems, and learning new technologies. 
+- 🧑‍💻 Assosiate Software Engineer @Exceloid Soft Systems
+- 🎓 EE grad'24 from RGUKT Basar
 - ✨ I Enjoy Cricket, and a badminton player.  
 - 🌍 I have a fantasy of roaming in the world of Disney and Marvel, indulging in their characters within my tiny world.
 
